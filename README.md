@@ -1,18 +1,18 @@
 # Note-Taking-App
-
+<hr>
 Note-Taking-App is a powerful and versatile web application built using Vite, React, and TypeScript, designed to make note-taking and organization a breeze. With Markdown language support, creating and managing your notes becomes effortless. Whether you're jotting down ideas, making to-do lists, or capturing important information, Note-Taking-App has you covered.
 
 ### Key Features:
 
-* <b>Markdown Support:</b> Write and format your notes in Markdown for a structured and professional look.
+* **Markdown Support:** Write and format your notes in Markdown for a structured and professional look.
 
-* <b>Category (Tag) Management:</b> Assign categories (tags) to your notes for easy organization and quick retrieval.
+* **Category (Tag) Management:** Assign categories (tags) to your notes for easy organization and quick retrieval.
 
-* <b>Search Functionality:</b> Easily search notes by category or note title, making finding specific information a breeze.
+* **Search Functionality:** Easily search notes by category or note title, making finding specific information a breeze.
 
-* <b>Edit and Delete Notes:</b> Edit and update your notes as needed, and remove any outdated or irrelevant content.
+* **Edit and Delete Notes:** Edit and update your notes as needed, and remove any outdated or irrelevant content.
 
-* <b>Custom Tag Creation:</b> Create and manage your own tags if they don't already exist, tailoring your organizational system to your preferences.
+* **Custom Tag Creation:** Create and manage your own tags if they don't already exist, tailoring your organizational system to your preferences.
 
 ### Getting Started:
 
@@ -23,3 +23,7 @@ Note-Taking-App is a powerful and versatile web application built using Vite, Re
 3. Start the Development Server: Launch the development server with `npm run dev`.
 
 4. Explore the App: Open the app in your browser and start exploring the Note-Taking-App.
+
+<hr>
+
+**CREDIT:** [The Perfect Advanced React/TypeScript Project - Markdown Supported Note Taking With Categories](https://youtu.be/j898RGRw0b4)
